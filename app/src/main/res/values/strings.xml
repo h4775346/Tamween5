@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tamween</string>
+    <string name="seller">تاجر سلع تموينية</string>
+    <string name="parent">رب اسرة</string>
+    <string name="enter_secret_number">ادخل الرقم السرى</string>
+    <string name="enter_card_number">ادخل رقم البطاقة</string>
+    <string name="enter_id_number">ادخل الرقم القومى</string>
+    <string name="start">تسجيل</string>
+    <string name="finish">انهاء</string>
+    <string name="wrong_input_please_check_your_data">من فضلك تأكد من البيانات المدخلة   يجب ان تكون البيانات صحيحة لأستكمال عملية الدخول الى حسابك</string>
+</resources>
